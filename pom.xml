@@ -24,6 +24,7 @@
     <modules>
         <module>poor-virtual-wallet</module>
         <module>ddd-virtual-wallet</module>
+        <module>api-authencator</module>
     </modules>
 
     <dependencies>
